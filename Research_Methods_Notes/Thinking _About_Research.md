@@ -72,7 +72,7 @@
 <div align="center">
 <h3>Step 1: Research Paradigm</h3>
 </div>
-<<p>Four elements to consider:</p>
+<p><u>Four elements to consider:</u></p>
 
 <ol>
   <li><b>Domain:</b> What is the domain? What constitutes the subject matter?</li>
@@ -106,7 +106,7 @@
 </div>
 
 
-<ul><h4>Step 2.1 Understanding the Type of Research Question</h4></ul>
+<ul><h4><u>Step 2.1 Understanding the Type of Research Question</u></h4></ul>
 <p>There are four types of research questions:</p>
 <ol>
   <li><b>Descriptive research:</b> Describes characteristics, patterns, or phenomena as they exist.</li>
@@ -121,10 +121,10 @@
   <li><b>Associative:</b> A and B are related, but the nature is unclear</li>
 </ul>
 
-<ul><h4>Step 2.2 Understanding Operational Definitions</h4></ul>
+<ul><h4><u></u>Step 2.2 Understanding Operational Definitions</u></h4></ul>
 <p>Define key concepts clearly and consistently. Use existing definitions and pilot test them.</p>
 
-<ul><h4>Step 2.3 Developing the Research Question</h4></ul>
+<ul><h4><u>Step 2.3 Developing the Research Question</h4></u></h4></ul>
 <p>Start broad, then refine with subsidiary questions as definitions evolve.</p>
 <p><i>Mitigating sections (ethical and data considerations) to follow.</i></p>
 
