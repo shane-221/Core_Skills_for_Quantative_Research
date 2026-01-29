@@ -121,10 +121,10 @@
   <li><b>Associative:</b> A and B are related, but the nature is unclear</li>
 </ul>
 
-<h4>Step 2.2 Understanding Operational Definitions</h4>
+<ul><h4>Step 2.2 Understanding Operational Definitions</h4></ul>
 <p>Define key concepts clearly and consistently. Use existing definitions and pilot test them.</p>
 
-<h4>Step 2.3 Developing the Research Question</h4>
+<ul><h4>Step 2.3 Developing the Research Question</h4></ul>
 <p>Start broad, then refine with subsidiary questions as definitions evolve.</p>
 <p><i>Mitigating sections (ethical and data considerations) to follow.</i></p>
 
