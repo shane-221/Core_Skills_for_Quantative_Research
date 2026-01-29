@@ -100,40 +100,28 @@
 
 <h3 style="text-align: center;">Step 2: Research Questions</h3>
 
-<h4>Step 2.1 Understanding the Type of Research Question</h4>
-<p>There are four types of research questions:</p>
+<h3>Step 2: Research Questions</h3>
 
-<ol>
-  <li><b>Descriptive research:</b> Describes characteristics, patterns, or phenomena as they exist, without investigating causes.</li>
-  <li><b>Exploratory research:</b> Conducted when little is known about a topic; aims to explore, identify patterns, and generate initial insights or hypotheses.</li>
-  <li><b>Explanatory research:</b> Seeks to explain why something happens, mainly through identifying and analysing causal relationships.</li>
-  <li><b>Evaluation research:</b> Assesses the effectiveness, impact, or value of a program, policy, intervention, or process.</li>
-</ol>
+<div style="margin-left: 20px;">
+  <h4>Step 2.1 Understanding the Type of Research Question</h4>
+  <p>There are four types of research questions:</p>
+  <ol>
+    <li><b>Descriptive research:</b> Describes characteristics, patterns, or phenomena as they exist.</li>
+    <li><b>Exploratory research:</b> Explores unknown topics and generates initial insights.</li>
+    <li><b>Explanatory research:</b> Explains why something happens through causal analysis.</li>
+    <li><b>Evaluation research:</b> Assesses effectiveness or impact of programs or policies.</li>
+  </ol>
+  <p><i>Some research questions may combine elements of more than one type.</i></p>
+  <p>Hypotheses test relationships between concepts:</p>
+  <ul>
+    <li><b>Causal:</b> A causes B</li>
+    <li><b>Associative:</b> A and B are related, but the nature is unclear</li>
+  </ul>
 
-<p><i>Some research questions may combine elements of more than one type.</i></p>
+  <h4>Step 2.2 Understanding Operational Definitions</h4>
+  <p>Define key concepts clearly and consistently. Use existing definitions and pilot test them.</p>
 
-<p>The research question leads to hypotheses. Hypotheses are used to examine relationships between concepts that are statistically testable. Two main types of relationships are:</p>
-
-<ol>
-  <li><b>Causal relationships:</b> A causes B</li>
-  <li><b>Associative relationships:</b> A and B are related, but the nature of the relationship is unclear.</li>
-</ol>
-
-
-<h4>Step 2.2 Understanding Operational Definitions</h4>
-<p>
-  Define key concepts in your research question. Ensure each term is clearly understood and used consistently.  
-  You may adopt definitions from existing literature.  
-  Pilot testing definitions helps ensure clarity and consistency.
-</p>
-
-
-
-<h4>Step 2.3 Developing the Research Question</h4>
-<p>
-  The initial question may be broad.  
-  As operational definitions develop, additional subsidiary questions may emerge.  
-  These help specify the exact area of focus.
-</p>
-
-<p><i>Mitigating sections (ethical and data considerations) to follow.</i></p>
+  <h4>Step 2.3 Developing the Research Question</h4>
+  <p>Start broad, then refine with subsidiary questions as definitions evolve.</p>
+  <p><i>Mitigating sections (ethical and data considerations) to follow.</i></p>
+</div>
