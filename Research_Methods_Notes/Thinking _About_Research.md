@@ -119,7 +119,6 @@
   <li><b>Associative relationships:</b> A and B are related, but the nature of the relationship is unclear.</li>
 </ol>
 
-<hr>
 
 <h4>Step 2.2 Understanding Operational Definitions</h4>
 <p>
@@ -128,7 +127,7 @@
   Pilot testing definitions helps ensure clarity and consistency.
 </p>
 
-<hr>
+
 
 <h4>Step 2.3 Developing the Research Question</h4>
 <p>
