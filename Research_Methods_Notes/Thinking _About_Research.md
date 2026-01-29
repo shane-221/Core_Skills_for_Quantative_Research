@@ -69,8 +69,10 @@
 
 <h2>Steps of the Research Process</h2>
 
-<h3 style="text-align: center;">Step 1: Research Paradigm</h3>
-<p>Four elements to consider:</p>
+<div align="center">
+<h3>Step 1: Research Paradigm</h3>
+</div>
+<<p>Four elements to consider:</p>
 
 <ol>
   <li><b>Domain:</b> What is the domain? What constitutes the subject matter?</li>
@@ -104,7 +106,7 @@
 </div>
 
 
-<h4>Step 2.1 Understanding the Type of Research Question</h4>
+<ul><h4>Step 2.1 Understanding the Type of Research Question</h4></ul>
 <p>There are four types of research questions:</p>
 <ol>
   <li><b>Descriptive research:</b> Describes characteristics, patterns, or phenomena as they exist.</li>
