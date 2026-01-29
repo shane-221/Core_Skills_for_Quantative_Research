@@ -69,7 +69,7 @@
 
 <h2>Steps of the Research Process</h2>
 
-<h3>Step 1: Research Paradigm</h3>
+<h3 style="text-align: center;">Step 1: Research Paradigm</h3>
 <p>Four elements to consider:</p>
 
 <ol>
@@ -96,9 +96,9 @@
   </li>
 </ol>
 
-<hr>
 
-<h3>Step 2: Research Questions</h3>
+
+<h3 style="text-align: center;">Step 2: Research Questions</h3>
 
 <h4>Step 2.1 Understanding the Type of Research Question</h4>
 <p>There are four types of research questions:</p>
