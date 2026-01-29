@@ -98,30 +98,31 @@
 
 
 
-<h3 style="text-align: center;">Step 2: Research Questions</h3>
 
+<div align="center">
 <h3>Step 2: Research Questions</h3>
-
-<div style="margin-left: 20px;">
-  <h4>Step 2.1 Understanding the Type of Research Question</h4>
-  <p>There are four types of research questions:</p>
-  <ol>
-    <li><b>Descriptive research:</b> Describes characteristics, patterns, or phenomena as they exist.</li>
-    <li><b>Exploratory research:</b> Explores unknown topics and generates initial insights.</li>
-    <li><b>Explanatory research:</b> Explains why something happens through causal analysis.</li>
-    <li><b>Evaluation research:</b> Assesses effectiveness or impact of programs or policies.</li>
-  </ol>
-  <p><i>Some research questions may combine elements of more than one type.</i></p>
-  <p>Hypotheses test relationships between concepts:</p>
-  <ul>
-    <li><b>Causal:</b> A causes B</li>
-    <li><b>Associative:</b> A and B are related, but the nature is unclear</li>
-  </ul>
-
-  <h4>Step 2.2 Understanding Operational Definitions</h4>
-  <p>Define key concepts clearly and consistently. Use existing definitions and pilot test them.</p>
-
-  <h4>Step 2.3 Developing the Research Question</h4>
-  <p>Start broad, then refine with subsidiary questions as definitions evolve.</p>
-  <p><i>Mitigating sections (ethical and data considerations) to follow.</i></p>
 </div>
+
+
+<h4>Step 2.1 Understanding the Type of Research Question</h4>
+<p>There are four types of research questions:</p>
+<ol>
+  <li><b>Descriptive research:</b> Describes characteristics, patterns, or phenomena as they exist.</li>
+  <li><b>Exploratory research:</b> Explores unknown topics and generates initial insights.</li>
+  <li><b>Explanatory research:</b> Explains why something happens through causal analysis.</li>
+  <li><b>Evaluation research:</b> Assesses effectiveness or impact of programs or policies.</li>
+</ol>
+<p><i>Some research questions may combine elements of more than one type.</i></p>
+<p>Hypotheses test relationships between concepts:</p>
+<ul>
+  <li><b>Causal:</b> A causes B</li>
+  <li><b>Associative:</b> A and B are related, but the nature is unclear</li>
+</ul>
+
+<h4>Step 2.2 Understanding Operational Definitions</h4>
+<p>Define key concepts clearly and consistently. Use existing definitions and pilot test them.</p>
+
+<h4>Step 2.3 Developing the Research Question</h4>
+<p>Start broad, then refine with subsidiary questions as definitions evolve.</p>
+<p><i>Mitigating sections (ethical and data considerations) to follow.</i></p>
+
