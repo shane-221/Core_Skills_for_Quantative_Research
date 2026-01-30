@@ -128,3 +128,68 @@
 <p>Start broad, then refine with subsidiary questions as definitions evolve.</p>
 <p><i>Mitigating sections (ethical and data considerations) to follow.</i></p>
 
+<div align="center">
+  <h3>Step 3: Mitigating Considerations (Data and Ethics)</h3>
+</div>
+
+<h4><u>The Role of Data</u></h4>
+
+<p>We cannot directly observe social phenomena in their entirety. Data serves as a proxy that allows us to infer, interpret, and analyse what happens within social contexts. When working with data, several considerations are important:</p>
+
+<ol>
+  <li><b>Forms of data:</b>
+    <ul>
+      <li>Spoken and written text</li>
+      <li>Non-verbal communication</li>
+      <li>Factual data (observed or reported)</li>
+      <li>Value statements (opinions, judgements, criteria)</li>
+    </ul>
+  </li>
+
+  <li><b>Data structure:</b>  
+    Consider how the data is organised — chronologically, thematically, or context-first. Structure influences interpretation.
+  </li>
+
+  <li><b>Data is constructed:</b>  
+    Data is produced by individuals or institutions. Researchers must consider what the data contains and what it represents.
+  </li>
+
+  <li><b>Primary vs. secondary data:</b>  
+    Primary data (collected by the researcher) and secondary data (produced by others) each have distinct strengths and limitations.
+  </li>
+
+  <li><b>Data and methodological approaches:</b>
+    <ul>
+      <li><b>Positivist:</b> Factual + value-neutral data → Quantitative methods</li>
+      <li><b>Interpretivist:</b> Language, spoken/written/non-verbal data → Qualitative methods</li>
+      <li><i>Mixed methods approaches are increasingly common.</i></li>
+    </ul>
+  </li>
+</ol>
+
+<h4><u>The Role of Ethics</u></h4>
+
+<p>Ethics refers to the social and moral values guiding responsible research practice. Ethical considerations ensure the protection, dignity, and rights of participants.</p>
+
+<ul>
+  <li><b>Ethics approvals:</b> Does the study require formal review?</li>
+  <li><b>Informed consent:</b>
+    <ul>
+      <li>Consent must be freely given</li>
+      <li>Participants must understand the purpose, risks, and procedures</li>
+      <li>Consent should be informed, voluntary, and documented</li>
+    </ul>
+  </li>
+  <li><b>Power relationships:</b> Consider imbalances between researcher and participants.</li>
+  <li><b>Protection from harm:</b>
+    <ul>
+      <li>Physical or psychological harm</li>
+      <li>Unintended consequences</li>
+      <li>Confidentiality and anonymity</li>
+      <li>Data protection and privacy</li>
+      <li>Cultural sensitivity</li>
+    </ul>
+  </li>
+</ul>
+
+<p><i>The central ethical principle is the protection of participants from harm.</i></p>
