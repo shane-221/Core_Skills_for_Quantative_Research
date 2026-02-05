@@ -193,3 +193,141 @@
 </ul>
 
 <p><i>The central ethical principle is the protection of participants from harm.</i></p>
+
+
+<h2>Step 4: Planning the Research Project</h2>
+
+<p>When planning a research project, two broad groups of questions must be addressed:</p>
+<ol>
+  <li><b>Questions related to the research project:</b>
+    <ul>
+      <li><b>What is the purpose of the research?</b></li>
+      <li><b>What research has already been done?</b></li>
+      <li><b>How will you collect, analyse, and present findings?</b></li>
+      <li><b>What do you think the outcome of the work is?</b></li>
+    </ul>
+  </li>
+
+  <li><b>Practicalities:</b>
+    <ul>
+      <li><b>Alone or part of a team?</b></li>
+      <li><b>Timetable?</b></li>
+      <li><b>How will you measure progress?</b></li>
+    </ul>
+  </li>
+</ol>
+
+<hr>
+
+<h2>Step 5: Literature Review</h2>
+
+<h3>Step 5.1: What Is a Literature Review?</h3>
+<p>A literature review involves:</p>
+<ul>
+  <li>Background reading – around the topic to see what has already been done.</li>
+  <li>Search reading – compiling a list of sources and information.</li>
+  <li>Reading and evaluating what you have found.</li>
+  <li>Structuring and producing the review.</li>
+</ul>
+
+<h3>Step 5.2: Why Is It Necessary?</h3>
+<ul>
+  <li>Find out what is already known.</li>
+  <li>See all the different approaches.</li>
+  <li>Compare different opinions.</li>
+  <li>Learn the vocabulary.</li>
+  <li>Find the important issues.</li>
+</ul>
+
+<h3>Step 5.3: What Constitutes Literature?</h3>
+<ul>
+  <li>Books</li>
+  <li>Journals</li>
+  <li>Media</li>
+  <li>‘Grey’ literature – produced for and by companies</li>
+  <li>Official documents</li>
+  <li>Search engines</li>
+</ul>
+
+<h3>Step 5.4: What Is Critical Analysis?</h3>
+<p>Critical analysis is to ask how, why, and whether an argument holds up.</p>
+
+<h4>Questions for the Author</h4>
+<ul>
+  <li>Why did you write this?</li>
+  <li>Who did you write it for?</li>
+  <li>What was your purpose?</li>
+  <li>What questions were you asking?</li>
+  <li>What answers did you find?</li>
+  <li>What is your evidence?</li>
+  <li>What is your conclusion?</li>
+</ul>
+
+<h4>Questions for Yourself</h4>
+<ul>
+  <li>Why am I reading this?</li>
+  <li>Was it written for “me”?</li>
+  <li>What am I looking for?</li>
+  <li>What questions am I asking?</li>
+  <li>Do I find the answers credible?</li>
+  <li>Do I accept the evidence?</li>
+  <li>Do I agree with the conclusions?</li>
+</ul>
+
+<h4>Evaluating the Research Paper</h4>
+<ul>
+  <li>Are the aims and objectives of the research clear?</li>
+  <li>Do the authors explain their hypotheses, research questions, and underlying theories?</li>
+  <li>Is it clear who paid for the research (possible conflicts of interest)?</li>
+  <li>Are research questions and operational definitions plainly stated?</li>
+  <li>Are the methodology and methods clear and appropriate?
+    <ul>
+      <li>A discussion of ethical issues.</li>
+      <li>An explanation of why the research was designed this way.</li>
+      <li>Explanation and discussion of data collection methods and analytical processes.</li>
+      <li>Definitions of variables (if appropriate).</li>
+      <li>Sample design and sampling processes.</li>
+      <li>Discussion of research instruments and their development.</li>
+    </ul>
+  </li>
+  <li>Are the limitations of the methods used discussed?</li>
+  <li>Are the results understandable and well discussed?</li>
+  <li>Is the conclusion clear?
+    <ul>
+      <li>Is there a discussion of whether the conclusions can be generalised?</li>
+      <li>Are there links between the conclusions and the theoretical perspective?</li>
+      <li>Is there a discussion of the implications of the conclusions?</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>Step 5.5: Searching for Literature</h3>
+<ul>
+  <li>Search for keywords.
+    <ul>
+      <li>A spider diagram can help identify all relevant areas.</li>
+    </ul>
+  </li>
+  <li>Think about types of sources.</li>
+  <li>Decide how you will search.</li>
+</ul>
+
+<h3>Step 5.6: Reading the Literature</h3>
+
+<h4>Before You Start Reading</h4>
+<ul>
+  <li>Look quickly through the book or paper, noting structure and headings.</li>
+  <li>Read introductions, abstracts, or contents pages.</li>
+  <li>Use an index to locate relevant sections.</li>
+  <li>Ask yourself: Why am I reading this?</li>
+  <li>Decide which sections or chapters you will read.</li>
+</ul>
+
+<h4>Then</h4>
+<ul>
+  <li>Do a quick read of paragraph openings to understand the flow.</li>
+  <li>Check again: Is this going to be useful?</li>
+  <li>Read carefully with your research topic in mind, making only relevant notes.</li>
+  <li>Note page numbers for key points or quotations.</li>
+  <li>Record the full reference of the source.</li>
+</ul>
