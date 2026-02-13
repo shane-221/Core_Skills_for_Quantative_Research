@@ -23,9 +23,7 @@ Conceptual and applied notes on:
 
 ### 2. Economics
 Structured notes on:
-- macroeconomics
-- microeconomics
-- applied and empirical economics
+- macroeconomics(Demand Supply,Trade, Finance, Ways to see the econnomy, Government Intervnetion)
 
 ### 3. Research Methods
 Concise notes on:
