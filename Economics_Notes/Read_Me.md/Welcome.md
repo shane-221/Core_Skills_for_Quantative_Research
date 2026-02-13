@@ -1,2 +1,0 @@
-I’ve always been drawn to the “-ics” disciplines — economics, politics, analytics — and this repository is my way of bringing that curiosity together in one structured place. This section focuses on macroeconomics: how the economy works at a system-wide level and how I personally understand its moving parts. It’s a growing collection of concepts, diagrams, and explanations that I’m building for clarity, reference, and long-term learning.
-### The Topics are broken up as follows: 
