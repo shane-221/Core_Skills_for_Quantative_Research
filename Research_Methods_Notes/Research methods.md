@@ -50,7 +50,7 @@ The research follows a logical and organised process.
 
 
 ## Steps of the Research Process
-<div align="center"><h2>Step 1: Research Paradigm</h2></div>
+<div align="center"><h3>Step 1: Research Paradigm</h2></div>
 
 
 There are four components to consider when establishing a research paradigm:
@@ -98,7 +98,7 @@ Epistemology concerns how knowledge is produced and what counts as valid knowled
   Can use quantitative or qualitative data.  
   Often used to study power relations or structural forces.
 
-### <center>Step 2: Research Question</center>
+<div align="center"><h3>Step 1: Research Question</h3></div>
 
 #### Step 2.1 Understanding the Type of Research Question
 ---
@@ -168,10 +168,7 @@ These help you:
 - Ensure alignment between concepts, definitions, and methods  
 - Clarify the scope and boundaries of your study
 
-
-### <center>Step 3: Mitigating considerations</center>
-
-
+<div align="center"><h3>Step 3: Mitigating considerations</h3></div>
 #### 3.1 The Role of Data
 ---- 
 We cannot directly observe or fully “know” social phenomena.  
@@ -241,7 +238,7 @@ Key considerations:
 The overarching principle is **protection from harm**.
 
 
-### <center>Steap 4: Planning the research Project 
+<div align="center"><h3>Step 4: Planning the Project</h3></div>
 
 When planning your research project, there are two groups of questions to consider:
 
