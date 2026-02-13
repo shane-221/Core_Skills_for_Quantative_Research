@@ -23,7 +23,13 @@ Conceptual and applied notes on:
 
 ### 2. Economics
 Structured notes on:
-- macroeconomics(Demand Supply,Trade, Finance, Ways to see the econnomy, Government Intervnetion)
+- Macroeconomics
+  - Demand Side
+  - Supply Side
+  - Trade
+  - Finance
+  - Ways to see the economy
+  - Government Intervention
 
 ### 3. Research Methods
 Concise notes on:
