@@ -50,7 +50,9 @@ The research follows a logical and organised process.
 
 
 ## Steps of the Research Process
-### <center>Step 1: Research Paradigm</center>
+<center>
+  ##Step 1: Research Paradigm
+</center>
 
 There are four components to consider when establishing a research paradigm:
 
