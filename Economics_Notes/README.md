@@ -7,14 +7,15 @@ I’ve always been drawn to the “-ics” disciplines -  economics, politics, a
 
 ![Overview structure](Images/Overview_Image.excalidraw.png)
 
-### Topic Links 
---- 
-- [Demand Side](Topics/Demand_Side.md)
-- [Supply Side](Topics/Supply_Side.md)
-- [Finance & Credit](Topics/Finance.md)
-- [Trade & Open Economy](Topics/Trade.md)
-- [Government Policy](Topics/Policy.md)
-- [Ways of Seeing the Economy](Topics/Ways_of_Seeing.md)
+### Topic Links
+---
+
+- [Demand Side](Topics/01_Demand_Side.md)
+- [Supply Side](Topics/02_Supply_side.md)
+- [Trade](Topics/03_Trade.md)
+- [Finance](Topics/04_Finance.md)
+- [Ways of Seeing the Economy](Topics/05_Ways_to_see_the_Economy.md)
+- [Government Interventions](Topics/06_Government_Interventions.md)
 ### Repository Structure
 ---
 - **Topics/** — Detailed notes on each macro area  
