@@ -9,7 +9,7 @@ The circular flow of income is a means of observing the flow of goods, income an
 ###### The Simple model 
 
 The Simple circular flow begins with households and firms. Firms produce goods and services in exchange for rent/ wages. Households offer their labour and expenditure. 
-![Simple Circular flow of income](./Images/Simple_circular_flow_image.jpg)
+![Simple Circular flow of income](/Images/Simple_circular_flow_image.jpg)
 
 
 ###### The more complex circular flow of income. 
