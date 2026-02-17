@@ -10,12 +10,12 @@ I’ve always been drawn to the “-ics” disciplines -  economics, politics, a
 ### Topic Links
 ---
 
-- [Demand Side](Topics/01_Demand_Side.md)
-- [Supply Side](Topics/02_Supply_side.md)
-- [Trade](Topics/03_Trade.md)
-- [Finance](Topics/04_Finance.md)
-- [Ways of Seeing the Economy](Topics/05_Ways_to_see_the_Economy.md)
-- [Government Interventions](Topics/06_Government_Interventions.md)
+- [Demand Side](01_Demand_Side.md)
+- [Supply Side](02_Supply_side.md)
+- [Trade](03_Trade.md)
+- [Finance](04_Finance.md)
+- [Ways of Seeing the Economy](05_Ways_to_see_the_Economy.md)
+- [Government Interventions](06_Government_Interventions.md)
 ### Repository Structure
 ---
 - **Topics/** — Detailed notes on each macro area  

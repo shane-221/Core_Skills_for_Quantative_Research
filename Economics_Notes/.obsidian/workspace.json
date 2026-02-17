@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Topics/05_Ways_to_see_the_Economy.md.md",
+                "file": "Topics/05_Ways_to_see_the_Economy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_Ways_to_see_the_Economy.md"
+              "title": "05_Ways_to_see_the_Economy"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/05_Ways_to_see_the_Economy.md.md",
+                "file": "Topics/05_Ways_to_see_the_Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05_Ways_to_see_the_Economy.md"
+              "title": "Backlinks for 05_Ways_to_see_the_Economy"
             }
           },
           {
@@ -237,25 +237,25 @@
   },
   "active": "530bb48e8d5009ac",
   "lastOpenFiles": [
-    "Topics/04_Finance.md.md",
+    "README.md",
+    "Topics/06_Government_Interventions.md",
+    "Topics/05_Ways_to_see_the_Economy.md",
+    "Topics/03_Trade.md",
+    "Topics/04_Finance.md",
+    "Topics/02_Supply_side.md",
+    "Topics/01_Demand_Side.md",
     "Images/Simple_circular_flow_image.excalidraw.png",
     "Images/Complex_circular_flow.png",
     "Images/Simple_circular_flow_image.jpg.~tmp",
     "Images/Simple_circular_flow_image.jpg",
     "Images/Complex_circular_flow.jpg",
     "Images/Complex_circular_flow.jpg.~tmp",
-    "Topics/05_Ways_to_see_the_Economy.md.md",
-    "README.md",
     "Images/Overview_Image.excalidraw.png",
-    "Topics/06_Government_Interventions.md.md",
     "Excalidraw/Drawing 2026-02-17 13.02.12.excalidraw.md",
     "Excalidraw/Drawing 2026-02-13 18.36.47.excalidraw.md",
-    "Topics/01_Demand_Side.md.md",
     "Excalidraw/Untitled.canvas",
     "Topics/06_Government_Interventions/index.md",
     "Topics/06_Government_Interventions",
-    "Topics/03_Trade.md.md",
-    "Topics/02_Supply_side.md.md",
     "Topics/03_Trade/index.md",
     "Topics/03_Trade",
     "Topics/05_Ways.md",
