@@ -9,7 +9,7 @@ The circular flow of income is a means of observing the flow of goods, income an
 ###### The Simple model 
 
 The Simple circular flow begins with households and firms. Firms produce goods and services in exchange for rent/ wages. Households offer their labour and expenditure. 
-![Simple Circular flow of income](/Images/Simple_circular_flow_image.jpg)
+![Simple Circular flow of income](../Images/Simple_circular_flow_image.jpg)
 
 
 ###### The more complex circular flow of income. 
@@ -17,7 +17,7 @@ The Simple circular flow begins with households and firms. Firms produce goods a
 
 In reality there are more actors involved in these exchanges. Governments, Banks and Trade have a means of interacting with the earlier model in various ways.
  
-![Complex Circular flow of income](Images/Complex_circular_flow.jpg)
+![Complex Circular flow of income](../Images/Complex_circular_flow.jpg)
 
 ###### Why does this matter?
 - The circular flow of income highlights the role of Income, Expenditure ,and Output as key to measure GDP. ( Later in this section )
