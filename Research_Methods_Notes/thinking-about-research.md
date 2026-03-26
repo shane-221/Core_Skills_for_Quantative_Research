@@ -14,8 +14,7 @@
    - [Step 2: Research Questions](#step-2-research-questions)
    - [Step 3: Literature Review](#step-3-literature-review)
    - [Step 4: Data and Ethics](#step-4-data-and-ethics)
-   - [Step 5: Planning the Project](#step-5-planning-the-project)
-   - [Step 6: Research Design](#step-6-research-design)
+   - [Step 5: Research Design](#step-5-research-design)
 
 ---
 
@@ -119,63 +118,10 @@ Start at a high level. As operational definitions develop, subsidiary questions 
 
 ---
 
-### Step 3: Data and Ethics
 
-#### 3.1 The Role of Data
+### Step 3: Literature Review
 
-Data is used as a proxy to infer what happens to social phenomena. Key considerations:
-
-**Forms of data:**
-- Spoken and written text
-- Non-verbal communication
-- Factual data (through observation or knowledge of the owner)
-- Value statements (opinions based on personal judgement or criteria)
-
-**Additional considerations:**
-- How is data structured? (Chronologically, thematically, contextually)
-- Data is constructed by individuals or entities — consider both what the data *contains* and what it *means*
-- Primary data (created by the researcher) and secondary data (produced by others) have different strengths and weaknesses
-
-**Data–methodology alignment:**
-
-| Paradigm | Data Type | Methods |
-|----------|-----------|---------|
-| Positivist | Factual and value data | Quantitative |
-| Interpretivist | Language, spoken, written, non-verbal | Qualitative |
-
-> Mixed methods approaches are increasingly common.
-
-#### 3.2 The Role of Ethics
-
-Ethics concerns the social and moral values involved in undertaking research. Key considerations:
-
-- **Ethics approvals** — required in most institutional contexts
-- **Informed consent** — must be freely given, with full information about risks
-- **Power relationships** — between researcher and participants
-- **Protection from harm** — physical, psychological, reputational; includes confidentiality, anonymity, data protection, and cultural sensitivity
-
----
-
-### Step 4: Planning the Project
-
-Two groups of questions:
-
-**Research questions:**
-- What is the purpose of the research?
-- What research has already been done?
-- How will you collect, analyse, and present findings?
-- What do you think the outcome of the work will be?
-
-**Practicalities:**
-- Working alone or as part of a team?
-- What is the timetable?
-- How will you measure progress?
-
----
-
-### Step 5: Literature Review
-
-#### 5.1 What Is a Literature Review?
+#### 3.1 What Is a Literature Review?
 
 A literature review involves:
 1. Background reading — survey what has already been done
@@ -183,7 +129,7 @@ A literature review involves:
 3. Read and evaluate what you have found
 4. Structure and produce the review
 
-#### 5.2 Why Is It Necessary?
+#### 3.2 Why Is It Necessary?
 
 - Find out what is already known
 - Understand the different approaches taken
@@ -191,7 +137,7 @@ A literature review involves:
 - Learn the vocabulary of the field
 - Identify the important unresolved issues
 
-#### 5.3 What Counts as Literature?
+#### 3.3 What Counts as Literature?
 
 - Academic books and journal articles
 - Media and news sources
@@ -199,7 +145,7 @@ A literature review involves:
 - Official documents (government publications, institutional data)
 - Search engine results (with appropriate critical scrutiny)
 
-#### 5.4 Critical Analysis
+#### 3.4 Critical Analysis
 
 Critical analysis means asking how, why, and whether an argument holds up. When reading, interrogate both the source and your own purpose:
 
@@ -226,13 +172,13 @@ Checklist for evaluating a paper:
 - Is the conclusion clear and generalisable?
 - Are implications for policy or practice discussed?
 
-#### 5.5 Searching for Literature
+#### 3.5 Searching for Literature
 
 - Search using keywords — a spider diagram can help map all related areas
 - Consider the type of source needed (peer-reviewed, grey literature, etc.)
 - Plan your search strategy in advance
 
-#### 5.6 Reading the Literature
+#### 3.6 Reading the Literature
 
 **Before reading:**
 - Skim structure, headings, and abstract
@@ -248,18 +194,56 @@ Checklist for evaluating a paper:
 - Record the full reference
 
 ---
+### Step 4: Data and Ethics
 
-### Step 6: Research Design
+#### 4.1 The Role of Data
+
+Data is used as a proxy to infer what happens to social phenomena. Key considerations:
+
+**Forms of data:**
+- Spoken and written text
+- Non-verbal communication
+- Factual data (through observation or knowledge of the owner)
+- Value statements (opinions based on personal judgement or criteria)
+
+**Additional considerations:**
+- How is data structured? (Chronologically, thematically, contextually)
+- Data is constructed by individuals or entities — consider both what the data *contains* and what it *means*
+- Primary data (created by the researcher) and secondary data (produced by others) have different strengths and weaknesses
+
+**Data–methodology alignment:**
+
+| Paradigm | Data Type | Methods |
+|----------|-----------|---------|
+| Positivist | Factual and value data | Quantitative |
+| Interpretivist | Language, spoken, written, non-verbal | Qualitative |
+
+> Mixed methods approaches are increasingly common.
+
+#### 4.2 The Role of Ethics
+
+Ethics concerns the social and moral values involved in undertaking research. Key considerations:
+
+- **Ethics approvals** — required in most institutional contexts
+- **Informed consent** — must be freely given, with full information about risks
+- **Power relationships** — between researcher and participants
+- **Protection from harm** — physical, psychological, reputational; includes confidentiality, anonymity, data protection, and cultural sensitivity
+
+---
+
+
+### Step 5: Research Design
 
 > Design is the skeleton. Strategy is the brain. Methods are the hands.
+> Research Design contains How the data is structured, How to collect it ,and the ways to interpret it.
 
-#### 6.1 How Can You Use Data?
+#### 5.1 How Can You Use Data?
 
 Two fundamental purposes:
 1. Look for **similarities and differences**
 2. Look for **relationships**
 
-#### 6.2 Four Types of Research Design
+#### 5.2 Four Types of Research Design
 
 *(How data is structured in time and space)*
 
@@ -270,7 +254,7 @@ Two fundamental purposes:
 | **Longitudinal** | Tracks entities across a period of time. |
 | **Case study** | In-depth study of a single or small number of cases. Types: critical, extreme/unique, representative/typical, revelatory. |
 
-#### 6.3 Research Strategies
+#### 5.3 Research Strategies
 
 *(How data is collected and interpreted)*
 
@@ -281,7 +265,7 @@ Two fundamental purposes:
 | **Ethnography** | Data collected through immersion in the field |
 | **Grounded theory** | Collects data first, then theorises from it |
 
-#### 6.4 Research Methods
+#### 5.4 Research Methods
 
 Methods should always be determined by the research questions.
 
@@ -299,7 +283,7 @@ Methods should always be determined by the research questions.
 2. **Qual → Quant** — qualitative phase used to inform quantitative design
 3. **Quant → Qual** — qualitative phase used to explain interesting quantitative findings
 
-#### 6.5 Sampling
+#### 5.5 Sampling
 
 Sampling is the selection of cases from a larger population. Techniques range from probability-based (random, stratified, cluster) to non-probabilistic (purposive, snowball, convenience).
 
@@ -307,6 +291,26 @@ Key concepts:
 - **Stratification** — making the sample more representative of the population, thereby reducing **sampling error**
 - **Probabilistic sampling** — used when the goal is generalisation to a wider population
 - **Non-probabilistic sampling** — used when the goal is exploration or theory development, not statistical generalisation
+
+---
+## Other things to Consider: 
+   - [Planning the Project](#planning-the-project)
+
+
+### Planning the Project
+
+Two groups of questions:
+
+**Research questions:**
+- What is the purpose of the research?
+- What research has already been done?
+- How will you collect, analyse, and present findings?
+- What do you think the outcome of the work will be?
+
+**Practicalities:**
+- Working alone or as part of a team?
+- What is the timetable?
+- How will you measure progress?
 
 ---
 
