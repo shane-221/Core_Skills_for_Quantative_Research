@@ -12,9 +12,9 @@
 4. [Steps of the Research Process](#4-steps-of-the-research-process)
    - [Step 1: Research Paradigm](#step-1-research-paradigm)
    - [Step 2: Research Questions](#step-2-research-questions)
-   - [Step 3: Data and Ethics](#step-3-data-and-ethics)
-   - [Step 4: Planning the Project](#step-4-planning-the-project)
-   - [Step 5: Literature Review](#step-5-literature-review)
+   - [Step 3: Literature Review](#step-3-literature-review)
+   - [Step 4: Data and Ethics](#step-4-data-and-ethics)
+   - [Step 5: Planning the Project](#step-5-planning-the-project)
    - [Step 6: Research Design](#step-6-research-design)
 
 ---
