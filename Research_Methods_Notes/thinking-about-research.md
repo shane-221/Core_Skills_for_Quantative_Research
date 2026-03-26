@@ -15,6 +15,8 @@
    - [Step 3: Literature Review](#step-3-literature-review)
    - [Step 4: Data and Ethics](#step-4-data-and-ethics)
    - [Step 5: Research Design](#step-5-research-design)
+5. [Other Things to Consider](#5-other-things-to-consider)
+   - [Planning the Project](#planning-the-project)
 
 ---
 
@@ -118,7 +120,6 @@ Start at a high level. As operational definitions develop, subsidiary questions 
 
 ---
 
-
 ### Step 3: Literature Review
 
 #### 3.1 What Is a Literature Review?
@@ -194,6 +195,7 @@ Checklist for evaluating a paper:
 - Record the full reference
 
 ---
+
 ### Step 4: Data and Ethics
 
 #### 4.1 The Role of Data
@@ -231,11 +233,11 @@ Ethics concerns the social and moral values involved in undertaking research. Ke
 
 ---
 
-
 ### Step 5: Research Design
 
 > Design is the skeleton. Strategy is the brain. Methods are the hands.
-> Research Design contains How the data is structured, How to collect it ,and the ways to interpret it.
+
+Research design covers three things: how the data is structured, how to collect it, and the ways to interpret it.
 
 #### 5.1 How Can You Use Data?
 
@@ -293,9 +295,8 @@ Key concepts:
 - **Non-probabilistic sampling** — used when the goal is exploration or theory development, not statistical generalisation
 
 ---
-## Other things to Consider: 
-   - [Planning the Project](#planning-the-project)
 
+## 5. Other Things to Consider
 
 ### Planning the Project
 
@@ -315,3 +316,4 @@ Two groups of questions:
 ---
 
 *Notes compiled during MSc research methods training. Updated continuously.*
+
