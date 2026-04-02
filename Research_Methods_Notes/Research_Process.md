@@ -14,7 +14,7 @@
    - [Step 2: Research Questions](#step-2-research-questions)
    - [Step 3: Literature Review](#step-3-literature-review)
    - [Step 4: Data and Ethics](#step-4-data-and-ethics)
-   - [Step 5: Research Design](#step-5-research-design)
+   - [Step 5: Research Design](#step-5-research-design) -- Design, Strategy, Methods
 5. [Other Things to Consider](#5-other-things-to-consider)
    - [Planning the Project](#planning-the-project)
 
