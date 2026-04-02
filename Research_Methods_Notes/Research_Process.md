@@ -14,9 +14,15 @@
    - [Step 2: Research Questions](#step-2-research-questions)
    - [Step 3: Literature Review](#step-3-literature-review)
    - [Step 4: Data and Ethics](#step-4-data-and-ethics)
-   - [Step 5: Research Design](#step-5-research-design) -- Design, Strategy, Methods
+   - [Step 5: Research Design](#step-5-research-design)
+   - [Step 6: Conclusion](#step-6-conclusion)
 5. [Other Things to Consider](#5-other-things-to-consider)
    - [Planning the Project](#planning-the-project)
+   - [The Importance of Audience](#the-importance-of-audience)
+   - [Writing for Research](#writing-for-research)
+   - [Writing for Reports](#writing-for-reports)
+   - [Data Presentation](#data-presentation)
+   - [Presenting](#presenting)
 
 ---
 
@@ -110,6 +116,7 @@ Research questions lead to hypotheses — testable assertions about statisticall
 #### 2.2 Operational Definitions
 
 Define all key concepts in your research question clearly and consistently. Ensure definitions are:
+
 - Internally consistent across all testing
 - Piloted before full deployment
 - Documented (you may draw on existing definitions from the literature)
@@ -125,6 +132,7 @@ Start at a high level. As operational definitions develop, subsidiary questions 
 #### 3.1 What Is a Literature Review?
 
 A literature review involves:
+
 1. Background reading — survey what has already been done
 2. Search reading — compile a list of sources
 3. Read and evaluate what you have found
@@ -160,7 +168,8 @@ Critical analysis means asking how, why, and whether an argument holds up. When 
 | What is your evidence? | Do I accept the evidence? |
 | What is your conclusion? | Do I agree with the conclusions? |
 
-Checklist for evaluating a paper:
+**Checklist for evaluating a paper:**
+
 - Are the aims and objectives clear?
 - Are hypotheses, research questions, and underlying theories explained?
 - Is funding or conflict of interest disclosed?
@@ -182,12 +191,14 @@ Checklist for evaluating a paper:
 #### 3.6 Reading the Literature
 
 **Before reading:**
+
 - Skim structure, headings, and abstract
 - Read any introduction or contents page
 - Ask: *Why am I reading this?*
 - Decide which sections are relevant
 
 **While reading:**
+
 - Do a quick pass, reading opening sentences of each paragraph
 - Check: *Is this going to be useful to me?*
 - Read carefully with your research question in mind
@@ -200,15 +211,17 @@ Checklist for evaluating a paper:
 
 #### 4.1 The Role of Data
 
-Data is used as a proxy to infer what happens to social phenomena. Key considerations:
+Data is used as a proxy to infer what happens to social phenomena.
 
 **Forms of data:**
+
 - Spoken and written text
 - Non-verbal communication
 - Factual data (through observation or knowledge of the owner)
 - Value statements (opinions based on personal judgement or criteria)
 
 **Additional considerations:**
+
 - How is data structured? (Chronologically, thematically, contextually)
 - Data is constructed by individuals or entities — consider both what the data *contains* and what it *means*
 - Primary data (created by the researcher) and secondary data (produced by others) have different strengths and weaknesses
@@ -235,13 +248,14 @@ Ethics concerns the social and moral values involved in undertaking research. Ke
 
 ### Step 5: Research Design
 
-> Design is the skeleton(to strucuture the data). Strategy is the brain(variables, how its collected) . Methods are the hands( How you get to your interpretation).
+> Design is the skeleton (how data is structured). Strategy is the brain (how data is collected and compared). Methods are the hands (how you get to your interpretation).
 
 Research design covers three things: how the data is structured, how to collect it, and the ways to interpret it.
 
 #### 5.1 How Can You Use Data?
 
 Two fundamental purposes:
+
 1. Look for **similarities and differences**
 2. Look for **relationships**
 
@@ -258,7 +272,7 @@ Two fundamental purposes:
 
 #### 5.3 Research Strategies
 
-*(How data is collected and interpreted)*
+*(How data is collected and compared)*
 
 | Strategy | Description |
 |----------|-------------|
@@ -266,6 +280,16 @@ Two fundamental purposes:
 | **Evaluation** | Assesses value relative to defined criteria |
 | **Ethnography** | Data collected through immersion in the field |
 | **Grounded theory** | Collects data first, then theorises from it |
+
+**Sampling**
+
+Sampling is the selection of cases from a larger population. Techniques range from probability-based (random, stratified, cluster) to non-probabilistic (purposive, snowball, convenience).
+
+Key concepts:
+
+- **Stratification** — making the sample more representative of the population, thereby reducing sampling error
+- **Probabilistic sampling** — used when the goal is generalisation to a wider population
+- **Non-probabilistic sampling** — used when the goal is exploration or theory development, not statistical generalisation
 
 #### 5.4 Research Methods
 
@@ -281,18 +305,39 @@ Methods should always be determined by the research questions.
 | Output | Themes, theory | Relationships, significance |
 
 **Ways of combining methods:**
+
 1. **Mixed methods** — triangulate different data types to address the same questions
 2. **Qual → Quant** — qualitative phase used to inform quantitative design
 3. **Quant → Qual** — qualitative phase used to explain interesting quantitative findings
 
-#### 5.5 Sampling
+#### 5.5 Analysis and Interpretation
 
-Sampling is the selection of cases from a larger population. Techniques range from probability-based (random, stratified, cluster) to non-probabilistic (purposive, snowball, convenience).
+Stems from the research paradigm. The paradigm determines what counts as valid evidence and what kinds of claims the analysis can support.
 
-Key concepts:
-- **Stratification** — making the sample more representative of the population, thereby reducing **sampling error**
-- **Probabilistic sampling** — used when the goal is generalisation to a wider population
-- **Non-probabilistic sampling** — used when the goal is exploration or theory development, not statistical generalisation
+| Method | Type |
+|--------|------|
+| Statistical analysis | Quantitative |
+| Thematic analysis | Qualitative |
+| Narrative analysis | Qualitative |
+| Discourse analysis | Qualitative |
+| Content analysis | Both |
+| Grounded theory | Qualitative |
+
+> Analysis tells you *what* the data shows. Interpretation tells you *what it means* — the claims it licenses and their significance for the research question.
+
+---
+
+### Step 6: Conclusion
+
+The content of the conclusion should reflect the research project. It should address:
+
+1. **Summary** — a concise overview of the work undertaken
+2. **Research question** — has it been answered? What has been learnt?
+3. **Evaluation** — how successful were the results?
+4. **Strengths and weaknesses** — what worked, what didn't, and what would you change?
+5. **Benefits** — who benefits from this research and in what way?
+6. **Practical application** — what suggestions can be made for practice or policy?
+7. **Future directions** — what still needs to be done?
 
 ---
 
@@ -303,15 +348,97 @@ Key concepts:
 Two groups of questions:
 
 **Research questions:**
+
 - What is the purpose of the research?
 - What research has already been done?
 - How will you collect, analyse, and present findings?
 - What do you think the outcome of the work will be?
 
 **Practicalities:**
+
 - Working alone or as part of a team?
 - What is the timetable?
 - How will you measure progress?
+
+---
+
+### The Importance of Audience
+
+**Who:**
+
+- Know your audience
+- Try to understand how they think
+- How they view the topic
+- What their experiences are
+- How would they react
+
+**What:**
+
+- What would they want to hear, and what would they not?
+- Are they a homogenous group? Do you need to meet multiple needs?
+
+**Why:**
+
+- Why do they want it?
+
+**How:**
+
+- How much detail is required?
+
+**Clarity:**
+
+- Think about reading level and choice of wording
+- Consider the reader's prior knowledge and baseline understanding
+
+---
+
+### Writing for Research
+
+**Process:**
+
+1. **Think** — define, explore ideas, generate questions
+2. **Organise** — structure the ideas
+3. **Write** — attend to grammar, word choice, numbers, spelling, presentation, and verb tenses; write the first draft by breaking it down into questions and thinking about how each sentence answers them
+4. **Review**
+5. **Publish**
+
+---
+
+### Writing for Reports
+
+Reports should be:
+
+- Brief — make it succinct
+- Clear
+- Precise — say what needs to be said, no more
+- Simple
+- Well structured
+- Descriptive
+- Planned
+
+**Structure:**
+
+- **Beginning** — where are we now?
+- **Middle** — current findings, methods, review; different possibilities for the future
+- **End** — conclusion and recommendation; present proof of how you reached your conclusions; anticipate objections
+
+---
+
+### Data Presentation
+
+Think about the form of data that makes findings easiest to understand:
+
+- Tables
+- Graphs (line, pie, bar)
+- Summary statistics (averages, percentages, etc.)
+
+---
+
+### Presenting
+
+1. Tell the audience what you are going to tell them
+2. Tell them
+3. Tell them what you have told them
 
 ---
 
