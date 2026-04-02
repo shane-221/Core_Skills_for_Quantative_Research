@@ -235,7 +235,7 @@ Ethics concerns the social and moral values involved in undertaking research. Ke
 
 ### Step 5: Research Design
 
-> Design is the skeleton. Strategy is the brain. Methods are the hands.
+> Design is the skeleton(to strucuture the data). Strategy is the brain(variables, how its collected) . Methods are the hands( How you get to your interpretation).
 
 Research design covers three things: how the data is structured, how to collect it, and the ways to interpret it.
 
